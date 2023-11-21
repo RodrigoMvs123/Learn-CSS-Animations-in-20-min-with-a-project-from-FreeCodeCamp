@@ -2,6 +2,8 @@
 
 https://www.youtube.com/watch?v=qDij4BD_v78 
 
+https://raw.githubusercontent.com/RodrigoMvs123/Learn-CSS-Animations-in-20-min-with-a-project-from-FreeCodeCamp/main/README.md
+
 Visual Studio Code
 Explorer 
 Open Editors
