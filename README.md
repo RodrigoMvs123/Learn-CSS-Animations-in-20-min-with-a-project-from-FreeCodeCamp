@@ -1,4 +1,5 @@
-# Learn-CSS-Animations-in-20-min-with-a-project-from-FreeCodeCamp
+
+## Learn-CSS-Animations-in-20-min-with-a-project-from-FreeCodeCamp
 
 https://www.youtube.com/watch?v=qDij4BD_v78 
 
@@ -6,6 +7,8 @@ https://raw.githubusercontent.com/RodrigoMvs123/Learn-CSS-Animations-in-20-min-w
 
 https://github.com/RodrigoMvs123/Learn-CSS-Animations-in-20-min-with-a-project-from-FreeCodeCamp/blame/main/README.md
 
+## Source Code 
+```html
 Visual Studio Code
 Explorer 
 Open Editors
@@ -25,13 +28,9 @@ index.html
         
     </body>
 </html>
+```
 
-Visual Studio Code
-Explorer 
-Open Editors
-index.html
-styles.css
-
+```html
 Visual Studio Code
 Explorer 
 Open Editors
@@ -64,8 +63,9 @@ index.html
         </div>
     </body>
 </html>
+```
 
-
+```css
 Visual Studio Code
 Explorer 
 Open Editors
@@ -190,9 +190,6 @@ cabin:nth-of-type(6) {
         transform: rotate(-360deg)
     }
 }
-
-
-
-
-
-
+```
+ 
+ 
